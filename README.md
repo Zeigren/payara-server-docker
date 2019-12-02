@@ -1,3 +1,5 @@
+[![Docker Hub](https://img.shields.io/docker/cloud/build/zeigren/payara-server-docker)](https://hub.docker.com/repository/docker/zeigren/payara-server-docker)
+
 Updated repository for Payara Dockerfiles. This repository is for the **Full Profile** of [Payara Server](http://www.payara.fish).
 
 # Supported tags and respective `Dockerfile` links
